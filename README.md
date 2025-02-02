@@ -133,8 +133,8 @@ This project is licensed under the **MIT License**. See the `LICENSE` file for d
 
 ## Contributors
 
-- **Hemalatha_S** (Developer)
-- [GitHub Profile](https://github.com/Hemalatha-Sathriyasekar)
+- **Sri Indhuja T** (Developer)
+- [GitHub Profile]()
 
 ## Feedback
 

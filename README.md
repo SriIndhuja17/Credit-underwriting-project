@@ -134,7 +134,7 @@ This project is licensed under the **MIT License**. See the `LICENSE` file for d
 ## Contributors
 
 - **Sri Indhuja T** (Developer)
-- [GitHub Profile]()
+- [GitHub Profile](https://github.com/SriIndhuja17)
 
 ## Feedback
 

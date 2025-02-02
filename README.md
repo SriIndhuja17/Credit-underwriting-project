@@ -138,4 +138,4 @@ This project is licensed under the **MIT License**. See the `LICENSE` file for d
 
 ## Feedback
 
-For any issues or suggestions, please open an **issue** on the [GitHub repository](https://github.com/Hemalatha-Sathriyasekar/AI-Predictive-Methods-for-Credit-Underwriting/issues).
+For any issues or suggestions, please open an **issue** on the [GitHub repository](https://github.com/SriIndhuja17/Credit-underwriting-project/issues).
